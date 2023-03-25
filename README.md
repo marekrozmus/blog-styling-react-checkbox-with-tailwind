@@ -1,1 +1,1 @@
-# blog-styling-react-checkbox-with-tailwind
+This is repository for the blog post: 
